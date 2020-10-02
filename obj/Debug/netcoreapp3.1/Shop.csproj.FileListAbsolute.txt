@@ -1,0 +1,5 @@
+/home/matheus/www/Shop/obj/Debug/netcoreapp3.1/Shop.csprojAssemblyReference.cache
+/home/matheus/www/Shop/obj/Debug/netcoreapp3.1/Shop.AssemblyInfoInputs.cache
+/home/matheus/www/Shop/obj/Debug/netcoreapp3.1/Shop.AssemblyInfo.cs
+/home/matheus/www/Shop/obj/Debug/netcoreapp3.1/Shop.csproj.CoreCompileInputs.cache
+/home/matheus/www/Shop/obj/Debug/netcoreapp3.1/Shop.MvcApplicationPartsAssemblyInfo.cache
